@@ -1,0 +1,12 @@
+<h1>Um breve texto sobre a Laranja</h1>
+
+
+<p>A laranja é o fruto da laranjeira (Citrus × sinensis), uma árvore da família Rutaceae. É um fruto híbrido que teria surgido na Antiguidade a partir do cruzamento do pomelo com a tangerina.</p>
+
+<p>O sabor da laranja varia do doce ao levemente ácido, mas na natureza existem também as laranjas extremamente ácidas, que pertencem a outra espécie, Citrus aurantium.</p>
+
+<p>Frequentemente, esta fruta é descascada e comida ao natural, ou espremida para obter sumo. As pevides (pequenos caroços duros) são habitualmente removidas, embora possam ser usadas em algumas receitas. A casca exterior pode ser usada também em diversos pratos culinários, como ornamento, ou mesmo para dar algum sabor. O albedo, a camada branca interior da casca, de dimensão variável, raramente é utilizado, apesar de ter um sabor levemente doce. É recomendada para "quebrar" o sabor ácido da laranja na boca, após terminar de consumir o fruto.</p>
+
+<p>A laranja doce foi trazida da China para a Europa no século XVI pelos portugueses. É por isso que as laranjas doces são denominadas "portuguesas" em vários países, especialmente nos Bálcãs (por exemplo, laranja em grego é portokali e portakal em turco), em romeno é portocala e portogallo com diferentes grafias nos vários dialectos italianos.</p>
+
+<p>Os antioxidantes, especialmente vitamina C, presente nas laranjas protegem as artérias dos radicais livres e prevenem a oxidação do colesterol. Além disso, laranjas tem fitoquímicos que impedem que as plaquetas se colem e fortalecem os vasos sanguíneos que transportam oxigênio e nutrientes para as células do corpo.</p>

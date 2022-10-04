@@ -1,0 +1,7 @@
+Laranja para escrever = #4b1900
+
+Laranja para sombreado = #753d12
+
+Laranja para gradiente (Do mais intenso ao mais leve) = #c98636, #9f6124, #c98636, #f8a835, #fbca57.
+
+Laranja para cor de fundo = #fee99f
