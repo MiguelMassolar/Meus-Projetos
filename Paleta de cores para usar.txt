@@ -1,3 +1,9 @@
+Site sobre Transformers
+Azul = #0000F1
+Vermelho = #D40803
+Cinza metálico = #AAA9A5
+
+Site Laranja
 Laranja para escrever = #4b1900
 
 Laranja para sombreado = #753d12

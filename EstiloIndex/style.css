@@ -1,0 +1,88 @@
+@charset "UTF-8";
+
+:root {
+    --cor01: rgb(176, 247, 243);
+    --cor02: rgb(80, 201, 201);
+    --cor03: rgb(55, 165, 165);
+    --cor04: rgba(126, 126, 216, 0.87);
+    --cor05: rgb(55, 114, 114);
+    --fonte-padrão: Arial, Verdana, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    background-image: linear-gradient(to top, var(--cor03), var(--cor02), var(--cor01));
+    min-height: 80px;
+    text-align: center;
+    font-family: var(--fonte-padrão);
+    font-size: 1.5em;
+    padding-top: 10px;
+}
+
+body {
+    background-color: var(--cor03)
+}
+
+main {
+    min-width: 200px;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: azure;
+    padding: 10px;
+    box-shadow: 0px 0px 10px black;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+main > h2 {
+    font-family: var(--fonte-padrão);
+    font-size: 1.2em;
+    color: black;
+    max-width: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+main > p {
+    font-family: var(--fonte-padrão);
+    font-size: 1.2em;
+    color: black;
+    max-width: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+main > ul {
+    font-family: var(--fonte-padrão);
+    font-size: 1.2em;
+    color: black;
+    max-width: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: var(--cor05);
+    text-align: center;
+    padding: 5px;
+}
+
+footer > a {
+    color: black;
+    font-family: var(--fonte-padrão);
+    font-size: 0.8em;
+}
